@@ -1,6 +1,6 @@
 colors.styles
 {
-	// Adwaita colors from https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/named-colors.html
+	// Mocha colors from https://github.com/catppuccin/catppuccin
 	colors
 	{
 		accent="245 194 231 255"
